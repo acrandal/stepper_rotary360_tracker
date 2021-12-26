@@ -17,6 +17,6 @@ URLS of interest:
 - https://www.electronicoscaldas.com/datasheet/ULN2003A-PCB.pdf
 - https://bit.ly/3sEzYYh
 
-Author: Aaron S. Crandall \<crandall@gonzaga.edu>
-Copyright: 2021
-License: GPL 3.0
+Author: Aaron S. Crandall \<crandall@gonzaga.edu>  
+Copyright: 2021  
+License: GPL 3.0  
